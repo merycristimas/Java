@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Apr 12 21:27:28 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instância a816c00e-0154-0d04-07b6-000002e10518
+no diretório de banco de dados /home/cta/Área de Trabalho/3i2016/cadastro1/data 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-internal-b14
+user.dir=/home/cta/Área de Trabalho/3i2016/cadastro1
+os.name=Linux
+os.arch=i386
+os.version=3.19.0-56-generic
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
